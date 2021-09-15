@@ -1,4 +1,4 @@
-# Stream Tokens
+# Stream Server
 
 You need them to use Stream, so here we go.
 
